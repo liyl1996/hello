@@ -1,0 +1,18 @@
+server:
+  port: 5555
+#spring:
+#  rabbitmq:
+#    username: root
+#    password: root
+#    virtual-host: /
+#    listener:
+#      simple:
+#        prefetch: 1
+#        acknowledge-mode: manual
+#      direct:
+#        prefetch: 1
+#        acknowledge-mode: manual
+#    addresses: 192.168.0.11:5672
+#canal:
+#  server: 192.168.0.11:11111
+#  destination: example
